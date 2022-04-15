@@ -1,1 +1,2 @@
-<h1>Estou iniciando no mundo da programação e este foi o meu primeiro projeto em C.<h1>
+<h3>Estou iniciando no mundo da programação e este foi o meu primeiro projeto em C.<h3>
+<p>O objetivo do programa é calcular a 2 * Área (A) e 2 * Base (B) de um "retângulo", por exemplo,<b> e informar o resultado final.<p>
